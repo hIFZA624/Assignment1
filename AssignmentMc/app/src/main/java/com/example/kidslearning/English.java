@@ -17,8 +17,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 public class English extends AppCompatActivity {
-    String myTitle[]={"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q"};
-    String myDescription[]={"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q"};
+    String myTitle[]={"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"};
+    String myDescription[]={"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","r","s","t","u","v","w","x","y","z"};
     int myImage[]={R.drawable.apple,R.drawable.baseball,R.drawable.clock,R.drawable.donkey,R.drawable.elephant,R.drawable.father,R.drawable.grandmother,R.drawable.hungry,R.drawable.internet,R.drawable.justice,R.drawable.kangro,R.drawable.london,R.drawable.monkey,R.drawable.norway,R.drawable.overtime,R.drawable.pillow,R.drawable.question};
     ListView listView;
     ImageView myImg;
